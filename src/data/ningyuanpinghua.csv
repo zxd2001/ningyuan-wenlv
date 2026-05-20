@@ -1,0 +1,1143 @@
+﻿word,dialect,phonetic,mandarin,usage,english,iid
+ ,热头,lì toū,太阳,～下山了,sun,0001
+ ,月亮,wèn līn,月亮,～出来了,moon,0002
+ ,星子,xió lē,星星,,star,0003
+,云,án,云,,cloud,0004
+,风,fián,风,,wind,0005
+ ,台风,tiá fiān,台风,,typhoon,0006
+  ,龙打水,lín dā suaī,闪电,名词,lightning,0007
+,雷,lé,雷,,thunder,0008
+,雨,wū,雨,,rain,0009
+ ,落雨,lè wū,下雨,,raining,0010
+,涿,cuā,淋,衣服被雨～湿了,get wet by the rain,0011
+,晒,sā,晒,～粮食,solarize,0012
+,雪,suǐ,雪,,snow,0013
+ ,构子,goǔ lē,冰,,ice,0014
+ ,雹子,più lè,冰雹,,hail,0015
+,霜,sén,霜,,frost,0016
+ ,雾子,wù lè,雾,,fog,0017
+ ,露水,lǒ suaī,露,,dew,0018
+,虹,gēn,虹,统称,rainbow,0019
+    ,天狗食日头,tán goū zì lì toū,日食,,solar eclipse,0020
+    ,天狗食月亮,tán goū zì wèn līn,月食,,lunar eclipse,0021
+ ,天气,tán cī,天气,,weather,0022
+,晴,qió,晴,天～,sunny,0023
+,阴,yán,阴,天～,cloudy,0024
+ ,天干,tán gín,旱,天～,drought,0025
+ ,天亮,tán lìn,天亮,,daybreak,0027
+,田,tán,水田,,paddy field,0028
+,地,taì,旱地,浇不上水的耕地,dry land,0029
+   ,垦头高头,yán toū gié toū,田埂,,balk,0030
+,路,lǒ suaī,路,野外的,field road,0031
+,山,xié,山,,mountain,0032
+ ,累冲,laī cēn,山谷,,valley,0033
+,河,há,江,大的河,river,0034
+  ,累冲水,laī cēn suaī,溪,小的河,stream,0035
+,沟,goú,水沟儿,较小的水道,ditch,0036
+,塘,tén,池塘,,pond,0038
+ ,氹牯,tiān gō,水坑儿,地面上有积水的小洼儿,puddle,0039
+ ,洪水,hín suaī,洪水,,flood,0040
+,浸,caì,淹,被水～了,flooded,0041
+   ,河公坪子,há gān pió lē,河岸,,river bank,0042
+,坝,bá,坝,拦河修筑拦水的,dam,0043
+ ,穴牯,fà gō,窟窿,小的,small hole,0045
+ ,裂缝,liǎ fiàn,缝儿,统称,slit,0046
+  ,马路牯,mō lò gō,石头,统称,stone,0047
+,土,tō,土,统称,earth,0048
+  ,泥巴巴,lí bā bā,泥,湿的,mud,0049
+ ,水泥,suaī lī,水泥,旧称,cement,0050
+ ,沙子,só lē,沙子,,sand,0051
+,砖,zuán,砖,整块的,brick,0052
+,瓦,ō,瓦,整块的,tile,0053
+,煤,mé,煤,,coal,0054
+ ,煤油,mé yōu,煤油,,kerosene,0055
+,炭,tiē,炭,木炭,charcoal,0056
+,灰,fé,灰,烧成的,ash,0973
+ ,灰尘,fé cān,灰尘,桌面上的,dust,0058
+,火,fū,火,,fire,0059
+ ,烟子,lín lē,烟,烧火形成的,smoke,0060
+ ,起火,sī fū,失火,,catch fire,0061
+,水,suaī,水,,water,0062
+ ,冷水,liō suaī,凉水,,cold water,0063
+ ,热水,lǒ suaī,热水,如洗脸的热水，不是指喝的开水,hot water,0064
+ ,滚水,guān suaī,开水,喝的,boiled water,0065
+ ,黏铁,liǒ tī,磁铁,,magnet,0066
+ ,时候,sí hoū,时候,吃饭的～,time,0067
+   ,哪东时候,lè diān sí hoū,什么时候,,when,0068
+ ,盖哩,gē lē,现在,,now,0069
+ ,那刻,lā kiē,以前,十年～,ago,0070
+ ,以后,zī hoū,以后,十年～,later,0071
+  ,一世人,zī sī ēng,一辈子,,a whole life,0072
+ ,即年,zí lān,今年,,this year,0073
+ ,龙=年,lán lān,明年,,next year,0074
+ ,后年,hoū lān,后年,,the year after next,0075
+ ,旧年,qiù lān,去年,,last year,0076
+ ,前年,zán lān,前年,,the year before last,0077
+  ,前几年,tán zī lán,往年,过去的年份,former years,0078
+ ,新年,xián lān,年初,,the beginning of the year,0079
+  ,老年子,liē lán dē,年底,,the end of the year,0080
+ ,即工,jiǎ gān,今天,,today,0081
+ ,#2工,taí gān,明天,,tomorrow,0082
+  ,下哺工,hō bū gān,后天,,the day after tomorrow,0083
+   ,再下哺工,jiā hō bū gān,大后天,,three days from now,0084
+ ,昨工,cò gān,昨天,,yesterday,0085
+  ,前哺工,cán bū gān,前天,,the day before yesterday,0086
+   ,先前哺工,sán cán bū gān,大前天,,three days ago,0087
+    ,一工扎实的,zī gán zǎ sì gè,整天,,all day,0088
+  ,样=工的,yìn gān dē,每天,,everyday,0089
+ ,早饭,jiē mā,早晨,,early morning,0090
+ ,上头,sèn toù,上午,,morning,0091
+ ,斗=食,doū zī,中午,,noon,0092
+ ,晚下,miē hō,下午,,afternoon,0093
+ ,煞黑,sǎ hě,傍晚,,evening,0094
+ ,#3#4,pià làn,白天,,daytime,0095
+ ,夜地,liò taì,夜晚,与白天相对，统称,night,0096
+ ,半夜,bīn yò,半夜,,midnight,0097
+ ,正月,zó weì,正月,农历,the first month of Chinese calendar,0098
+   ,大年初一,tò lān có zǐ,大年初一,农历,the first day of Chinese calendar,0099
+  ,正月常,zó weì sàn,元宵节,,the Lantern Festival,0100
+  ,清明节,qió mī zī,清明,,Pure Brightness,0101
+ ,端午,dín hō,端午,,Dragon Boat Festival,0102
+  ,七月半,caǐ weì bīn,七月十五,农历，节日名,July Fifteenth of Chinese calendar,0103
+  ,八月常,biǎ weì sàn,中秋,,Mid-Autumn Festival,0104
+ ,冬至,dián zī,冬至,,Winter Solstice,0105
+  ,十二月,sì lì weì,腊月,农历十二月,the last month of Chinese calendar,0106
+    ,三十哺夜地,só sì bū liò taì,除夕,农历,the last day of Chinese calendar,0107
+ ,历本,liò biān,历书,,calendar,0108
+  ,星期天,xīn cì tán,星期天,,Sunday,0111
+ ,地方 图=牯,taī tō,地方,,place,0112
+ ,哪东地方 哪东图牯,lē lē,什么地方,,where,0113
+ ,屋腹,ò bū,家里,,at home,0114
+ ,城腹,só bū,城里,,in town,0115
+ ,乡哩,xín lā,乡下,,in the countryside,0116
+ ,高头,gié toū,上面,从～滚下来,top,0117
+ ,底下,dī hò,下面,从～爬上去,bottom,0118
+  ,左半牯,zē bīn gō,左边,,left,0119
+  ,右半牯,yòu bīn gō,右边,,right,0120
+ ,中心,jín xiān,中间,排队排在～,in the middle,0121
+ ,前头,cán doū,前面,排队排在～,in the front,0122
+ ,背底,bē dī,后面,排队排在～,at the back,0123
+ ,尾公,mā gān,末尾,排队排在～,at the end,0124
+   ,对门对牯,dō miān dō gō,对面,,opposite,0125
+ ,前头,cán doū,面前,,in front of,0126
+ ,背底,bē dī,背后,,behind,0127
+ ,腹紧=,bǔ jiān,里面,躲在～,inside,0128
+ ,门下,mián hō,外面,衣服晒在～,outside,0129
+ ,边侧,bián zī,旁边,,side,0130
+ ,高头,gié toū,上,碗在桌子～,on,0131
+ ,底下,dī hò,下,凳子在桌子～,under,1124
+ ,边侧,bián zī,边儿,桌子的～,table side,0133
+ ,角牯,jiǔ gō,角儿,桌子的～,the corner of a table,0134
+ ,上去,sēn hò,上去,他～了,go up,0135
+ ,下来,hō lā,下来,他～了,go down,0136
+ ,进去,èng hō,进去,他～了,go inside,0137
+ ,出来,suaǐ lā,出来,他～了,come out,0138
+ ,出去,suaǐ hō,出去,他～了,go out,0139
+ ,归来,guaí lā,回来,他～了,go back,0140
+ ,起来,sī lā,起来,天冷～了,get,0141
+ ,树子,xiè lè,树,,tree,0142
+  ,木瘩牯,mò dā gɕ̄,木头,,wood,0143
+ ,松树,qián xiè,松树,统称,pine,0144
+  ,柏料树,pò lì xiè,柏树,统称,cypress,0145
+ ,杉树,só xiè,杉树,,cedar,0146
+  ,柳叶树,liū zì xiè,柳树,,willow,0147
+ ,竹子,zoǔ dē,竹子,统称,bamboo,0148
+ ,笋子,xiān dē,笋,,bamboo shoot,0149
+  ,叶子皮,zì lè pā,叶子,,leaf,0150
+,花,hó,花,,flower,0708
+  ,花苞苞,hó biú biū,花蕾,花骨朵,bud,0152
+ ,梅花,mé hō,梅花,,plum blossom,0153
+,草,qiē,草,,grass,0156
+,藤,tián,藤,,vine,0157
+,#5,lè,刺,名词,thorn,0158
+ ,桃子,tié lē,桃子,,peach,0161
+ ,梨子,lai lē,梨,,pear,0162
+ ,李子,laī lè,李子,,plum,0163
+ ,柑子,gín zī,橘子,,tangerine,0165
+ ,桂=子,guaǐ lē,柚子,,pomelo,0166
+ ,柿子,sī lè,柿子,,persimmon,0167
+ ,石榴,sò liū,石榴,,pomegranate,0168
+ ,枣栗,jiē laì,枣,,jujube,0169
+ ,板栗,biē laì,栗子,,chestnut,0170
+ ,梗子,mēn lè,甘蔗,,sugarcane,0173
+ ,菌子,qiān lè,蘑菇,野生的,mushroom,0175
+,禾,wú,稻,指植物,rice plant,0177
+ ,谷子,gǒ lē,稻谷,指籽实（脱粒后是大米）,rice,0178
+  ,金禾草,jián wū qiē,稻草,脱粒后的,rice grass,0179
+  ,四月麦,saī weì mò,大麦,指植物,barley,0180
+ ,谷子,gǒ lē,谷子,指植物(籽实脱粒后是小米),millet,0183
+ ,高粱,gié līn,高粱,指植物,sorghum,0184
+ ,玉米,yú mī,玉米,指成株的植物,corn,0185
+ ,棉花,mán hō,棉花,指植物,cotton,0186
+ ,油菜,yóu qiā,油菜,油料作物，不是蔬菜,rapeseed plant,0187
+ ,麻子,mó dē,芝麻,,sesame,0188
+ ,蚕豆,càn doū,蚕豆,,broad bean,0190
+ ,冬豆,dián toù,豌豆,,pea,0191
+  ,落花生,lò fā sēn,花生,指果实，注意婉称,peanut,0192
+  ,黄豆子,hín toù lè,黄豆,,soybean,0193
+ ,绿豆,liè toù,绿豆,,mung bean,0194
+ ,豆公,toù gān,豇豆,长条形的,yard-long bean,0195
+ ,白菜,pò qiā,包心菜,卷心菜，圆白菜，球形的,cabbage,0197
+ ,菠菜,bō qiā,菠菜,,spinach,0198
+ ,芹菜,qìn zaī,芹菜,,celery,0199
+ ,莴笋,ō sēn,莴笋,,asparagus lettuce,0200
+ ,韭菜,jiū qiā,韭菜,,fragrant-flowered garlic,0201
+ ,芫荽,yuàn xū,香菜,芫荽,coriander,0202
+,葱,qián,葱,,scallion,0203
+,蒜,xūn,蒜,,garlic,0204
+,姜,jín,姜,,ginger,0205
+ ,洋葱,yín qiān,洋葱,,onion,0206
+ ,辣椒,là zī,辣椒,统称,chili,0207
+ ,茄子,qié lē,茄子,统称,eggplant,0208
+ ,萝卜,lé bē,萝卜,统称,radish,0210
+  ,胡萝卜,fú lé bē,胡萝卜,,carrot,0211
+ ,黄瓜,hín gō,黄瓜,,cucumber,0212
+ ,丝瓜,sí gō,丝瓜,无棱的,sponge gourd,0213
+ ,北瓜,bě gō,南瓜,扁圆形或梨形，成熟时赤褐色,pumpkin,0214
+ ,麻茨,mó cān,荸荠,,water chestnut,0215
+ ,红薯,hán xiè,红薯,统称,sweet potato,0216
+ ,芋头,yú toù,芋头,,taro,0218
+ ,槐山,faì sān,山药,圆柱形的,yam,0219
+,藕,oū,藕,,lotus root,0220
+ ,老虎,liē hò,老虎,,tiger,0221
+ ,猴子,hoú lē,猴子,,monkey,0222
+,蛇,só,蛇,统称,snake,0223
+ ,老鼠,liē xiè,老鼠,家里的,mouse,0224
+  ,洋老鼠,yín liē xiè,蝙蝠,,bat,0225
+ ,鸟子,dī dē,鸟儿,飞鸟，统称,bird,0226
+ ,麻雀,mà qiò,麻雀,,sparrow,0227
+  ,死唧唧,sī jià jià,乌鸦,,crow,0229
+ ,鸽子,gò zī,鸽子,,pigeon,0230
+ ,翅嘎,cì gā,翅膀,鸟的，统称,wing,0231
+ ,爪子,gó zī,爪子,鸟的，统称,claw,0232
+ ,尾公,mā gān,尾巴,,tail,0233
+ ,族哩,toū lè,窝,鸟的,nest,0234
+ ,虫婆,lián bū,虫子,统称,insect,0235
+  ,飞嬷嬷,feī mō mō,蝴蝶,统称,butterfly,0236
+   ,洋杆咩咩,yín gān miē miē,蜻蜓,统称,dragonfly,0237
+ ,蜜蜂,màn pián,蜜蜂,,bee,0238
+ ,蜜糖,màn tēn,蜂蜜,,honey,0239
+  ,唧唧哟,zī zī yō,知了,统称,cicada,0240
+   ,蚂蚁崽崽,mā lì zē zē,蚂蚁,,ant,0241
+ ,䖾婆,xīn bū,蚯蚓,,earthworm,0242
+   ,蚕丝虫婆,cén sí lián bū,蚕,,silkworm,0243
+   ,波丝螳螂,bō sī dàn dàn,蜘蛛,会结网的,spider,0244
+ ,蚊子,miān lè,蚊子,统称,mosquito,0245
+  ,蛆头蚊,qié toū miān,苍蝇,统称,fly,0246
+ ,狗蚤,goū jiē,跳蚤,咬人的,flea,0247
+ ,虱婆,sǎ bū,虱子,,louse,0248
+,鱼,ngó,鱼,,fish,0249
+ ,鲤鱼,lān ngō,鲤鱼,,carp,0250
+  ,斧头鱼,bǔ toū ó,鳙鱼,胖头鱼,bighead carp,0251
+ ,鲫鱼,zǐ ngō,鲫鱼,,crucian carp,0252
+,鳖,bǐ,甲鱼,,soft-shelled turtle,0253
+ ,鳞甲,lán ngō,鳞,鱼的,fish scale,0254
+ ,虾公,hó gān,虾,统称,shrimp,0255
+ ,螃蟹,pàn haī,螃蟹,统称,crab,0256
+ ,麻拐,mió gyā,青蛙,统称,frog,0257
+   ,癞子麻拐,lià lè mió gyā,癞蛤蟆,表皮多疙瘩,toad,0258
+,马,mō,马,,horse,0259
+ ,骡子,lé dē,骡,,mule,0261
+,牛,ngoú,牛,,cattle,0262
+ ,牛公,ngoú gān,公牛,统称,bull,0263
+ ,牛婆,ngoú bū,母牛,统称,cow,0264
+ ,放牛,bēn ngoú,放牛,,graze cattle,0265
+,羊,yín,羊,,sheep,0266
+,猪,jié,猪,,pig,0267
+  ,猪楼公,jié loū gàn,种猪,配种用的公猪,breeding pig,0268
+ ,猪公,jié gān,公猪,成年的，已阉的,barrow,0269
+ ,猪婆,jié bū,母猪,成年的，未阉的,sow,0270
+  ,猪崽崽,jié zē zē,猪崽,,piglet,0271
+ ,猪楼,jié loū,猪圈,,pigsty,0272
+ ,养猪,yīn jié,养猪,,pig farming,0273
+ ,猫崽,mō zaī,猫,,cat,0274
+  ,公猫崽,gán mō zaī,公猫,,tomcat,0275
+  ,婆猫崽,pú mō zaī,母猫,,female cat,0276
+,狗,goū,狗,统称,dog,0277
+ ,狗公,goū gān,公狗,,male dog,0278
+ ,狗婆,goū pū,母狗,,female dog,0279
+,叫,xiǔ,叫,狗～,bark,0920
+ ,兔子,tō dè,兔子,,rabbit,0281
+,鸡,zí,鸡,,chicken,0282
+ ,鸡公,zí gān,公鸡,成年的，未阉的,rooster,0283
+ ,鸡婆,zí bū,母鸡,已下过蛋的,hen,0284
+,叫,xiǔ,叫,公鸡～（即打鸣儿）,crow,0920
+,生,xié,下,鸡～蛋,lay (eggs),1124
+,孵,piè,孵,～小鸡,hatch,0287
+,鸭,ǒ,鸭,,duck,0288
+,鹅,ngé,鹅,,goose,0289
+,劁,zí,阉,～公的猪,castrate (boar),0292
+,阉,lín,阉,～母的猪,castrate (sow),0292
+,阉,lín,阉,～鸡,castrate (chicken),0292
+,喂,waī,喂,～猪,feed (pigs),0293
+ ,杀猪,sǎ jié,杀猪,统称，注意婉称,kill pigs,0294
+,剖,gā,杀,～鱼,kill,0295
+ ,围楼,waí loū,村庄,一个～,village,0296
+ ,弄牯,liàn gō,胡同,统称：一条～,alleyway,0297
+,街,gá,街道,,street,0298
+ ,起屋,sī ǒ,盖房子,,build a house,0299
+,屋,ǒ,房子,整座的，不包括院子,house,0300
+ ,间子,giē lè,屋子,房子里分隔而成的，统称,room,0301
+ ,房屋,hín ō,卧室,,bedroom,0302
+  ,茅草屋,miú qiē ǒ,茅屋,茅草等盖的,thatched cottage,0303
+  ,火炉腹,fū lō bū,厨房,,kitchen,0304
+,灶,jiē,灶,统称,kitchen range,0305
+,铛,qié,锅,统称,wok,0306
+ ,炆铛,wán qié,饭锅,煮饭的,rice cooker,0307
+,铛,qié,菜锅,炒菜的,vegetable pot,0308
+ ,屎坑,sī kiē,厕所,旧式的，统称,lavatory,0309
+ ,柱头,cō toū,柱子,,pillar,0311
+ ,大门,tò miān,大门,,gate,0312
+ ,门槛,mián qiē,门槛儿,,doorsill,0313
+ ,格子,gè zī,窗,旧式的,window,0314
+,阶,gé,梯子,可移动的,ladder,0315
+ ,扫把,xiē bō,扫帚,统称,broom,0316
+ ,扫地,xiē taì,扫地,,sweep,0317
+ ,龌龊,wǔ coū,垃圾,,litter,0318
+ ,家什,gó sì,家具,统称,furniture,0319
+ ,物什,wà sī,东西,我的～,stuff,0320
+,床,cén,床,木制的，睡觉用,bed,1096
+ ,头#7,toú guàn,枕头,,pillow,0323
+,被,pā,被子,,quilt,0324
+ ,被絮,pā xiè,棉絮,,batting,0325
+ ,毯子,tō dē,床单,,bed sheets,0326
+  ,垫被絮,tàn pā xiè,褥子,,mattress,0327
+ ,席子,qiò lè,席子,,mats,0328
+ ,帐子,zēn lè,蚊帐,,mosquito net,0329
+ ,枱子,tá lē,桌子,统称,table,0330
+,柜,kuaì,柜子,统称,cabinet,0331
+ ,箱子,xín dē,抽屉,桌子的,drawer,0332
+  ,交椅凳,jiú zī diān,椅子,统称,chair,0334
+,凳,diān,凳子,统称,bench,0335
+ ,菜刀,jiā diē,菜刀,,kitchen knife,0337
+ ,瓢瓜,piaò guā,瓢,舀水的,dipper,0338
+ ,缸瓮,gín mēn,缸,,crock,0339
+ ,坛子,gě lē,坛子,装酒的～,jar,0340
+ ,瓶子,pió lē,瓶子,装酒的～,bottle,0341
+ ,盖盖,gē gē,盖子,杯子的～,lid,0342
+,碗,yuē,碗,统称,bowl,0343
+,箸,cò,筷子,,chopsticks,0344
+ ,调羹,tiaò gīn,汤匙,,spoon,0345
+,柴,cí,柴火,统称,firewood,0346
+  ,自拿火,zí là hō,火柴,,match,0347
+,锁,sē,锁,,lock,0348
+ ,锁锁,sē sē,钥匙,,key,0349
+ ,面盆,màn piān,脸盆,,washbasin,0351
+  ,洗面水,sī màn suaī,洗脸水,,water for washing face,0352
+ ,帕子,pō lè,毛巾,洗脸用,towel,0353
+  ,手巾帕,soū jiān pō,手绢,,handkerchief,0354
+ ,肥皂,feì zō,肥皂,洗衣服用,soap,0355
+,梳,só,梳子,旧式的，不是篦子,comb,0356
+ ,剪刀,zān diē,剪子,,scissors,0358
+ ,蜡烛,lò jiē,蜡烛,,candle,0359
+,伞,xiē,雨伞,挡雨的，统称,umbrella,0361
+ ,单车,dié cō,自行车,,bicycle,0362
+,衣,á,衣服,统称,clothes,0363
+,着,zě,穿,～衣服,wear,0364
+,解,gā,脱,～衣服,take off,0365
+,捆,kǎ,系,～鞋带,tie,0366
+  ,背褡衣,bē dō á,背心,带两条杠的，内衣,vest,0368
+  ,绳子衣,sù zī á,毛衣,,sweater,0369
+ ,棉衣,mán á,棉衣,,cotton-padded clothes,0370
+ ,衣袖,á qiò,袖子,,sleeves,0371
+ ,袋牯,tiǎ gō,口袋,衣服上的,pocket,0372
+,裈,guán,裤子,,trousers,0373
+  ,半截裈,bīn zī guán,短裤,外穿的,shorts,0374
+ ,裈脚,guán jiē,裤腿,,trouser legs,0375
+ ,帽子,miè lè,帽子,统称,hat,0376
+ ,鞋子,há lē,鞋子,,shoes,0377
+ ,水袜,suaī miàn,袜子,,socks,0378
+ ,围裙,waí jiān,围裙,,apron,0380
+  ,垫屎帕,tàn sī pō,尿布,,diaper,0381
+ ,扣头,kuaī toū,扣子,,button,0382
+,扣,kuaī,扣,～扣子,buckle,0383
+ ,戒指,gā zī,戒指,,ring,0384
+ ,手圈,soū kuā,手镯,,bracelet,0385
+  ,剃毛毛,tí miē miē,理发,,haircut,0386
+  ,梳毛毛,só miē miē,梳头,,combs,0387
+,饭,má,米饭,,rice,0388
+ ,粥饭,zoǔ mā,稀饭,用米熬的，统称,porridge,0389
+ ,面粉,màn fiān,面粉,麦子磨的，统称,flour,0390
+,面,màn,面条,统称,noodles,0391
+ ,包子,biú lē,包子,,Steamed stuffed bun,0394
+ ,馅心,hìn xiān,馅儿,,patties,0397
+ ,豆浆,toù jīn,豆浆,,soybean milk,0399
+   ,豆腐脑髓,toù fù liē xiān,豆腐脑,,bean curd jelly,0400
+  ,羊子寨=,yín zī cà,粽子,,rice dumpling,0402
+ ,点心,dān xiān,点心,统称,dim sum,0404
+,菜,qiā,菜,吃饭时吃的，统称,vegetable,0405
+ ,豆腐,toù fù,豆腐,,bean curd,0407
+ ,猪血,jié feī,猪血,当菜的,pig blood,0408
+  ,猪爪子,jié zō lē,猪蹄,当菜的,trotters,0409
+  ,猪脷头,jié lì toū,猪舌头,当菜的，注意婉称,pig tongue,0410
+  ,猪肝花,jié gín hō,猪肝,当菜的，注意婉称,porcine,0411
+ ,捞=水,ló suaī,下水,猪牛羊的内脏,offal,0412
+ ,#8#8,kà kà,鸡蛋,,egg,0413
+ ,板油,biē yōu,猪油,,lard,0415
+ ,香油,xín yōu,香油,,sesame oil,0416
+ ,酱油,jīn yōu,酱油,,soy sauce,0417
+,盐,lín,盐,名词,salt,0418
+,醋,cō,醋,注意婉称,vinegar,0419
+,烟,lín,香烟,,cigarette,0420
+ ,旱烟,hìn līn,旱烟,,dry cigarette,0421
+ ,白酒,pò jiū,白酒,,white spirit,0422
+ ,黄酒,hín jiū,黄酒,,rice wine,0423
+ ,糊酿,fú līn,江米酒,酒酿，醪糟,fermented glutinous rice,0424
+ ,茶叶,có zì,茶叶,,tea,0425
+,泡,biū,沏,～茶,infuse,0426
+ ,煮饭,jiē má,做饭,统称,cook,0428
+  ,炒青菜,cē qió qiā,炒菜,统称，和做饭相对,stir-fry vegetable,0429
+,煲,bié,煮,～带壳的鸡蛋,boil,0430
+,踏=,tiǎ,煎,～鸡蛋,fry,0431
+,炸,cà,炸,～油条,fried,0432
+,蒸,zán,蒸,～鱼,steam,0433
+,揉,hoù,揉,～面做馒头等,knead,0434
+  ,食早饭,zì jiē mā,吃早饭,,have breakfast,0436
+  ,食斗=食,zì doū zī,吃午饭,,have lunch,0437
+  ,食夜地,zì liò taì,吃晚饭,,have dinner,0438
+,食,zì,吃,～饭,eat,0439
+,啜,suaǐ,喝,～酒,drink,0441
+,啜,suaǐ,喝,～茶,drink,0441
+,食,zì,抽,～烟,smoke,0442
+,盛,só,盛,～饭,filled,0443
+,夹,gǎ,夹,用筷子～菜,clip,0444
+,斟,càn,斟,～酒,pour,0445
+,干,gín,渴,口～,thirsty,0446
+,饿,è,饿,肚子～,hungry,0447
+,哽,gán,噎,吃饭～着了,choke,0448
+ ,脑牯,liē gō,头,人的，统称,head,1088
+ ,毛毛,miē miē,头发,,hair,0450
+ ,辫子,bián dē,辫子,,braid,0451
+,旋,cuàn,旋,,,0452
+ ,额头,è toù,额头,,forehead,0453
+ ,相貌,xīn mō,相貌,,looks,0454
+,面,màn,脸,洗～,face,0455
+ ,眼睛,liē jiō,眼睛,,eye,0456
+    ,眼睛鬼崽崽,liē jiō guaī zē zē,眼珠,统称,eyeball,0457
+  ,眼泪水,liē lè suaī,眼泪,哭的时候流出来的,tear,0458
+ ,眉毛,maí miē,眉毛,,eyebrow,0459
+ ,耳夹,liē gā,耳朵,,ear,0460
+ ,鼻头,paì toū,鼻子,,nose,0461
+ ,鼻鼻,paì paì,鼻涕,统称,snot,0462
+,擤,xiān,擤,～鼻涕,blow,0463
+ ,咀夹,jiē gā,嘴巴,人的，统称,mouth,0464
+ ,咀皮,jiē pā,嘴唇,,lip,0465
+ ,口水,hoū suaī,口水,～流出来,saliva,0466
+ ,舌头,lì toū,舌头,,tongue,0467
+ ,牙齿,ngó cì,牙齿,,tooth,0468
+  ,下咀皮,hō jiē pā,下巴,,chin,0469
+ ,胡子,wú lē,胡子,嘴周围的,beard,0470
+ ,颈骨,jiō guā,脖子,,neck,0471
+ ,喉咙,hoú liān,喉咙,,throat,0472
+ ,膀头,bě toū,肩膀,,shoulder,0473
+,手,soū,胳膊,,arm,0474
+,手,soū,手,方言指(打√)：只指手；包括臂：他的～摔断了,hand,0475
+ ,左手,zē soū,左手,,left hand,0476
+ ,右手,yòu soū,右手,,right hand,0477
+ ,拳牯,guán gō,拳头,,fist,0478
+  ,手崽崽,soū zē zē,手指,,finger,0479
+  ,大手领,tò soū lin,大拇指,,thumb,0480
+  ,啄手领,zuǎ soū līn,食指,,index finger,0481
+    ,中心手崽崽,jín xiān soū zē zē,中指,,middle finger,0482
+   ,小手崽崽,sī soū zē zē,无名指,,ring finger,0483
+  ,尾鸟鸟,mā dī dī,小拇指,,little finger,0484
+ ,手甲,soū gō,指甲,,nail,0485
+,脚,jiě,腿,,leg,0486
+,脚,jiě,脚,方言指(打√)：只指脚；包括小腿；包括小腿和大腿：他的～压断了,foot,0487
+  ,鱼头骨,ó toū guā,膝盖,指部位,knee,0488
+ ,背颈,bē jiō,背,名词,back,0806
+ ,肚子,tō lè,肚子,腹部,belly,0490
+  ,腹正皮,bǔ zō pā,肚脐,,navel,0491
+ ,奶奶,laī laī,乳房,女性的,breast,0492
+ ,耸牯,sān gō,屁股,,ass,0493
+ ,屎穴,sī fā,肛门,,anus,0494
+ ,鸟鸟,dī dī,阴茎,成人的,penis,0495
+,屄,bí,女阴,成人的,pussy,0496
+,肏,lē,肏,动词,coital,0497
+ ,精水,jín suaī,精液,,semen,0498
+  ,来月经,lá weì jīn,来月经,注意婉称,menstruate,0499
+ ,屙屎,wú sī,拉屎,,shit,0500
+ ,屙尿,wú lì,撒尿,,pee,0501
+ ,打屁,dā paī,放屁,,fart,0502
+    ,你耶那麻皮,ēng yē lā mà pī,相当于“他妈的”的口头禅,,fucking,0503
+ ,得病,dě piò,病了,,sick,0504
+   ,寒倒呱了,hín diē guā lì,着凉,,catch cold,0505
+ ,咳嗽,kě soū,咳嗽,,cough,0506
+ ,发热,fiǎ lǒ,发烧,,fever,0507
+ ,发抖,fiǎ doū,发抖,,shiver,0508
+  ,肚子疼,tō lè cà,肚子疼,,stomach ache,0509
+  ,泄肚子,xiō tō lè,拉肚子,,diarrhea,0510
+  ,打摆子,dā biā lē,患疟疾,,malaria,0511
+,肿,zān,肿,,pus,0513
+ ,灌脓,gūn lián,化脓,,fester,0514
+ ,疤子,bó lē,疤,好了的,scar,0515
+,癣,xiān,癣,,ringworm,0516
+,痣,zī,痣,凸起的,nevus,0517
+  ,风瘩婆,fián dā pò,疙瘩,蚊子咬后形成的,pimple,0518
+  ,福骚嗅,fù xié cuā,狐臭,,body odor,0519
+ ,盯病,diǒ piò,看病,,see a doctor,0520
+ ,把脉,bǎ mè,诊脉,,feel the pulse,0521
+ ,干针,gín zān,针灸,,acupuncture,0522
+ ,打针,dā zán,打针,,injection,0523
+  ,打吊针,dā dī zān,打吊针,,transfusion,0524
+ ,食药,zì yè,吃药,统称,take medicine,0525
+,茶,có,汤药,,a decoction of medicine ingredients,0526
+  ,好些了,hiē daī liè,病轻了,,the disease is light,0527
+ ,做媒,zē mé,说媒,,act as matchmaker,0528
+  ,媒人婆,mé ēng pū,媒人,,matchmaker,0529
+ ,对面,dō màn,相亲,,blind date,0530
+ ,订婚,tiò fián,订婚,,engage oneself to,0531
+ ,嫁妆,gō zēn,嫁妆,,trousseau,0532
+ ,结婚,zǐ fián,结婚,统称,marry,0533
+  ,讨老客,tiē liē kō,娶妻子,男子～，动宾,take a wife,0534
+ ,出嫁,suaǐ gō,出嫁,女子～,get married,0535
+  ,新姑丈,xián gō cēn,新郎,,groom,0537
+   ,新妇娘娘,xián fū līn līn,新娘子,,bride,0538
+  ,大肚怪,tò tō guā,孕妇,,gravida,0539
+  ,驮肚子,té tō lè,怀孕,,pregnant,0540
+ ,嫌井,xìn jiō,害喜,妊娠反应,feel morning sickness of pregnant woman,0541
+ ,下地,hō taì,分娩,,childbirth,0542
+ ,落胎,lè tiá,流产,,abortion,0543
+ ,双巴,suān bā,双胞胎,,twins,0544
+  ,坐月子,zē weǐ dē,坐月子,,confinement in childbirth,0545
+  ,吃奶奶,zì laī laī,吃奶,,suck the breast,0546
+  ,隔奶奶,gǒ laī laī,断奶,,ablactation,0547
+ ,满月,mīn weǐ,满月,,a baby’s completion of its first month of life,0548
+ ,生日,xié ēng,生日,统称,birthday,0549
+  ,做生日,zē xié ēng,做寿,,celebrate the birthday,0550
+,死,saī,死,统称,die,0552
+  ,过呱了,gū guā liè,死,婉称，最常用的几种，指老人：他～了,die,0552
+  ,寻短路,tì dīn lò,自杀,,suicide,0553
+ ,断气,tīn cī,咽气,,breathe one’s last,0554
+ ,入殓,èng làn,入殓,,put a corpse in a coffin,0555
+ ,木头,mò toū,棺材,,coffin,0556
+ ,出葬,suaǐ zēn,出殡,,carry a coffin to the cemetery,0557
+ ,灵位,lió waì,灵位,,temporary memorial tablet,0558
+,祖,zō,坟墓,单个的，老人的,grave,0559
+ ,钱纸,cán zī,纸钱,,joss paper,0561
+  ,天老爷,tán liē yō,老天爷,,god,0562
+ ,菩萨,pú sò,菩萨,统称,bodhisattva,0563
+  ,观娘娘,gún līn līn,观音,,kwan-yin,0564
+   ,撑铛姑姑,qié qiē gó gō,灶神,口头的叫法，其中如有方言亲属称谓要释义,kitchen god,0565
+,庙,mì,寺庙,,temple,0566
+ ,祠堂,cí tēn,祠堂,,ancestral temple,0567
+ ,斋公,zá gān,和尚,,monk,0568
+ ,斋婆,zá bū,尼姑,,nun,0569
+   ,裟公皮子,sí gān pá lē,道士,,Taoist,0570
+  ,盯八字,diǒ bi cì,算命,统称,fortunetelling,0571
+ ,运气,yuàn zī,运气,,fortune,0572
+ ,保倒,biē diē,保佑,,bless,0573
+,人,éng,人,一个～,person,0574
+  ,男人家,ló ēng gō,男人,成年的，统称,man,0575
+ ,女人,liē ēng,女人,三四十岁已婚的，统称,woman,0576
+  ,单身公,dié xié gàn,单身汉,,bachelor,0577
+  ,老姑婆,liē gō bū,老姑娘,,old spinster,0578
+   ,毛奶崽崽,mié liā zē zē,婴儿,,infant,0579
+ ,徕头,liā toù,小孩,三四岁的，统称,child,0580
+  ,儿子家,ló dē gō,男孩,统称：外面有个～在哭,boy,0581
+  ,女子家,liē dè gō,女孩,统称：外面有个～在哭,girl,0582
+  ,老人家,liē ēng gō,老人,七八十岁的，统称,elder,0583
+ ,亲戚,jián zī,亲戚,统称,relatives,0584
+ ,朋友,pián yōu,朋友,统称,friend,0585
+   ,隔壁邻舍,gǒ biǒ lió xiō,邻居,统称,neighbor,0586
+,客,kǒ,客人,,guest,0587
+ ,农夫,lén fū,农民,,farmer,0588
+   ,做生意的,zē sɕié zī gè,商人,,businessman,0589
+   ,做手艺的,zē soū lì gè,手艺人,统称,craftsman,0590
+ ,砌匠,cī dchiè̃,泥水匠,,plasterer,0591
+ ,木匠,mò qìn,木匠,,carpenter,0592
+  ,扯衣的,yǎ á gē,裁缝,,tailor,0593
+   ,剃毛毛的,tí miē miē gè,理发师,,barber,0594
+ ,师傅,sí fū,师傅,,master,0596
+ ,徒弟,tó tī,徒弟,,apprentice,0597
+  ,讨吃牯,tiē zì gō,乞丐,统称，非贬称(无统称则记成年男的),beggar,0598
+  ,码子婆,mō zī pō,妓女,,prostitute,0599
+ ,痞子,pī zī,流氓,,rogue,0600
+ ,贼佬,cè lō,贼,,thief,0601
+ ,瞎子,hǎ lē,瞎子,统称，非贬称(无统称则记成年男的),blind man,0602
+ ,聋子,lián lē,聋子,统称，非贬称(无统称则记成年男的),the deaf,0603
+ ,哑子,ō lē,哑巴,统称，非贬称(无统称则记成年男的),mute,0604
+ ,驼子,tē lē,驼子,统称，非贬称(无统称则记成年男的),hunchback,0605
+ ,摆=子,biá lē,瘸子,统称，非贬称(无统称则记成年男的),cripple,0606
+ ,癫子,dán lē,疯子,统称，非贬称(无统称则记成年男的),madman,0607
+ ,蠢子,cuā zī,傻子,统称，非贬称(无统称则记成年男的),fool,0608
+  ,呆货,ngá ke ū,笨蛋,蠢的人,fool,0609
+ ,公公,gán gān,爷爷,呼称，最通用的,grandfather,0610
+ ,奶奶,liān liān,奶奶,呼称，最通用的,grandmother,0611
+ ,多公,dé gān,外祖父,叙称,grandfather,0612
+ ,多婆,dé bū,外祖母,叙称,grandmother,0613
+   ,耶耶爹爹,yē yē diā diā,父母,合称,parent,0614
+ ,爹爹,diā diā,父亲,叙称,father,0615
+ ,耶耶,yē yē,母亲,叙称,mother,0616
+ ,爹,diā diā,爸爸,呼称，最通用的,dad,0617
+,耶,yē,妈妈,呼称，最通用的,mom,0618
+   ,继父公子,zī fū gán lē,继父,叙称,stepfather,0619
+   ,后来老母,hoū lā liē mō,继母,叙称,stepmother,0620
+   ,岳哺公子,wè pū gán lē,岳父,叙称,father-in-law,0621
+   ,岳哺老母,wè pū liē mō,岳母,叙称,mother-in-law,0622
+ ,公子,gán lē,公公,叙称,father-in-law,0623
+ ,老母,liē mō,婆婆,叙称,mother-in-law,0624
+ ,伯伯,bǒ bō,伯父,呼称，统称,uncle,0625
+ ,伯伯,bǒ bō,伯母,呼称，统称,aunt,0626
+ ,满满,mān mān,叔父,呼称，统称,uncle,0627
+ ,满满,miē mān,排行最小的叔父,呼称，如“幺叔”,uncle,0628
+ ,婶婶,mēn mēn,叔母,呼称，统称,aunt,0629
+ ,姑姑,gó gō,姑,统称，呼称(无统称则记分称：比父大，比父小；已婚，未婚),aunt,0630
+ ,姑姨,gó yōu,姑父,呼称，统称,uncle,0631
+ ,舅舅,qiū qiù,舅舅,呼称,uncle,0632
+ ,舅嬷,qiū mèn,舅妈,呼称,aunt,0633
+ ,姨姨,yōu yōu,姨,统称，呼称(无统称则记分称：比母大，比母小；已婚，未婚),aunt,0634
+  ,姨丈爷,zí cēn yō,姨父,呼称，统称,uncle,0635
+ ,兄弟,xió liā,弟兄,合称,brothers,0636
+ ,姊妹,zā mè,姊妹,合称，注明是否可包括男性,sisters,0637
+ ,哥哥,gō gō,哥哥,呼称，统称,elder brother,0638
+ ,嫂嫂,xiē xiē,嫂子,呼称，统称,sister-in-law,0639
+ ,毛毛,mié miē,弟弟,叙称,younger brother,0640
+  ,弟伯嫂,liā bè xiē,弟媳,叙称,sister-in-law,0641
+ ,姐姐,jiē jiē,姐姐,呼称，统称,sister,0642
+ ,姊丈,zā cēn,姐夫,呼称,brother-in-law,0643
+ ,妹崽,mè mè,妹妹,叙称,sister,0644
+  ,姨妹兄,yōu mè sō,妹夫,叙称,brother-in-law,0645
+ ,兄嫂,xió xiē,妯娌,弟兄妻子的合称,wives of brothers,0648
+ ,老姨,lō zì,连襟,姊妹丈夫的关系，叙称,husbands of sisters,0649
+ ,儿子,ló dē,儿子,叙称：我的～,son,0650
+ ,媳妇,xián fū,儿媳妇,叙称：我的～,daughter-in-law,0651
+ ,女子,baí dè,女儿,叙称：我的～,daughter,0652
+ ,姑丈,gó cēn,女婿,叙称：我的～,son-in-law,0653
+ ,孙子,suán dē,孙子,儿子之子,grandson,0654
+ ,色=子,sě dē,重孙子,儿子之孙,great grandson,0655
+ ,侄子,zè dè,侄子,弟兄之子,nephew,0656
+ ,外甥,wè xiē,外甥,姐妹之子,nephew,0657
+ ,外孙,wè xiē,外孙,女儿之子,grandson,0658
+  ,两姑婆,līn gō p̄,夫妻,合称,couple,0659
+ ,男人,ló ēng,丈夫,叙称，最通用的，非贬称：她的～,husband,0660
+ ,老客,liē kō,妻子,叙称，最通用的，非贬称：他的～,wife,0661
+ ,名字,mió zì,名字,,name,0662
+ ,讳名,fiān miō,绰号,,nickname,0663
+ ,做事,zē sì,干活儿,统称：在地里～,work,0664
+ ,事情,sì jìn,事情,一件～,matter,0665
+ ,莳田,sì tán,插秧,,transplant rice seedlings,0666
+ ,割禾,gě wú,割稻,,cut rice,0667
+  ,种青菜,zān qió cā,种菜,,grow vegetables,0668
+,犁,lí,犁,名词,plough,0669
+ ,锄头,jiě toū,锄头,,hoe,0670
+ ,镰刀,lán diē,镰刀,,sickle,0671
+ ,把把,bō bō,把儿,刀～,handle,0672
+ ,扁子,bān lē,扁担,,shoulder pole,0673
+ ,围篮,waí liān,箩筐,,a large bamboo basket,0674
+ ,筛子,sá lē,筛子,统称,sifter,0675
+ ,畚箕,biān zī,簸箕,农具，有梁的,dustpan,0677
+ ,簸箕,bē zī,簸箕,簸米用,dustpan,0677
+ ,磙子,kàn lè,轮子,旧式的，如独轮车上的,wheel,0679
+,碓,dē,碓,整体,pestle,0680
+ ,碓夯,dē hān,臼,,mortar,0681
+ ,磨石,mè sò,磨,名词,stone mill,0682
+ ,年成,lán sō,年成,,the year’s harvest,0683
+ ,打工,dā gán,打工,,do work for others,0685
+ ,斧头,bǔ toū,斧子,,axe,0686
+ ,铗子,gǎ lē,钳子,,pliers,0687
+ ,起子,cī zī,螺丝刀,,screwdriver,0688
+ ,锤子,cuá lē,锤子,,hammer,0689
+ ,钉子,dió dē,钉子,,nail,0690
+ ,索子,sě lē,绳子,,rope,0691
+ ,棍子,guān lē,棍子,,stick,0692
+  ,做生意,zē xié zī,做买卖,,deal,0693
+ ,铺子,pū lè,商店,,shop,0694
+ ,伙铺,fū bū,饭馆,,restaurant,0695
+ ,伙铺,fū pū,旅馆,旧称,hotel,0696
+,贵,guaī,贵,,expensive,0697
+ ,便宜,paí līn,便宜,,cheap,0698
+  ,划得来,fiǎ dē lá,合算,,excellent value,0699
+ ,亏本,guaí biān,亏本,,loss cost,0701
+,钱,cán,钱,统称,money,0702
+ ,零钱,lió cān,零钱,,change,0703
+ ,毫子,hò zī,硬币,,coin,0704
+ ,本钱,biān cān,本钱,,principal,0705
+ ,工钱,gán cān,工钱,,salary,0706
+  ,路费钱,lò fēn cān,路费,,toll,0707
+,用,yàn,花,～钱,spend,0708
+,赚,qū,赚,卖一斤能～一毛钱,earn,0709
+,抓,zó,挣,打工～了一千块钱,earn,0710
+,欠,qīn,欠,～他十块钱,owe,0711
+ ,算盘,xūn pīn,算盘,,abacus,0712
+,秤,cān,秤,统称,scales,0713
+,称,cán,称,用秆秤～,weigh,0714
+  ,赶闹子,gīn ló zī,赶集,,go to market,0715
+ ,闹子,ló zī,集市,,market,0716
+ ,学堂,xiò tàn,学校,,school,0718
+ ,教室,jiaó sì,教室,,classroom,0719
+ ,上学,sēn xiù,上学,,go to school,0720
+ ,放学,bēn xiù,放学,,school is over,0721
+ ,考试,kiē sì,考试,,exam,0722
+ ,书包,xié biū,书包,,schoolbag,0723
+ ,本子,biān lē,本子,,notebook,0724
+ ,铅笔,yín baī,铅笔,,pencil,0725
+ ,水笔,suaī baī,钢笔,,pen,0726
+  ,圆珠笔,yuàn jū bì,圆珠笔,,ball-point pen,0727
+ ,毛笔,mié baī,毛笔,,ink brush,0728
+,墨,mè,墨,,ink,0729
+ ,墨盘,mè pàn,砚台,,ink stone,0730
+,信,xiān,信,一封～,letter,0731
+   ,人崽崽书,éng zē zē xié,连环画,,comic strip,0732
+   ,揢摸哒扯,há mō dà qiē,捉迷藏,,hide-and-seek,0733
+ ,跳绳,tiaó sù,跳绳,,rope skipping,0734
+  ,球子钱,qiú lē cán,毽子,,shuttlecock,0735
+  ,耍狮子,suā sī lē,舞狮,,lion dance,0737
+ ,炮丈,piū cēn,鞭炮,统称,firecracker,0738
+ ,唱歌,cēn gú,唱歌,,sing,0739
+ ,唱戏,cēn sī,演戏,,act in a play,0740
+ ,锣鼓,lé gō,锣鼓,统称,gong and drum,0741
+  ,拱拱型=,gō gō xìn,二胡,,Erhu,0742
+ ,笛子,tiò dè,笛子,,flute,0743
+ ,猜拳,cá guán,划拳,,finger-guessing game,0744
+ ,下棋,hō zí,下棋,,play chess,0745
+  ,打扑克,dā pō kè,打扑克,,play poker,0746
+  ,打麻将,dā mó jīn,打麻将,,play Mahjong,0747
+  ,耍把戏,suā bō sī,变魔术,,perform conjuring tricks,0748
+  ,讲古话,jiān gō hò,讲故事,,tell a story,0749
+  ,猜谜子,cá mǎ dē,猜谜语,,guess riddle,0750
+  ,走亲戚,zoū qián zī,走亲戚,,visit relatives,0753
+,盯,diǒ,看,～电视,watch,0754
+,听,tiō,听,用耳朵～,listen,0755
+,闻,miān,闻,嗅：用鼻子～,smell,0756
+,吸,zuǐ,吸,～气,inhale,0757
+,睁,guá,睁,～眼,open,0758
+,闭,maí,闭,～眼,close,0762
+,眨,zā,眨,～眼,blink,0760
+,啊,á,张,～嘴,open,1095
+,闭,mǐ,闭,～嘴,close,0762
+,咬,liū,咬,狗～人,bite,0763
+,嚼,jiù,嚼,把肉～碎,chew,0764
+,哽,gán,咽,～下去,swallow,0765
+,舔,liō,舔,人用舌头～,lick,0766
+,含,hín,含,～在嘴里,keep,0767
+ ,打啵,dā bō,亲嘴,,kiss,0768
+,吸,zuǐ,吮吸,用嘴唇聚拢吸取液体，如吃奶时,suck,0769
+,吐,tō,吐,上声，把果核儿～掉,spit,0771
+,吐,tō,吐,去声，呕吐：喝酒喝～了,vomit,0771
+  ,打海青=,dā haī qìn,打喷嚏,,sneeze,0772
+,驮,dē,拿,用手把苹果～过来,take,0773
+,予,yé,给,他～我一个苹果,give,0774
+,摸,mín,摸,～头,touch,0775
+,伸,zī,伸,～手,stretch,0776
+,抠,koú,挠,～痒痒,tickle,0777
+,掐,liǎ,掐,用拇指和食指的指甲～皮肉,pinch,0778
+,拧,liú,拧,～螺丝,wring,0780
+,拧,liu,拧,～毛巾,twist,0780
+,捏,lá,捻,用拇指和食指来回～碎,entwist,0781
+,掰,bǎ,掰,把橘子～开，把馒头～开,force apart,0782
+,剥,biǔ,剥,～花生,peel,0783
+,撕,sí,撕,把纸～了,rive,0784
+,折,bǎ,折,把树枝～断,break off,0785
+,扯,yà,拔,～萝卜,pull,0786
+,摘,zǒ,摘,～花,pick,0787
+,徛,zī,站,站立：～起来,stand up,0788
+,倚,piàn,倚,斜靠：～在墙上,lean,0789
+,蹲,duán,蹲,～下,crouch,0790
+,坐,cē,坐,～下,sit,0791
+,跳,taī,跳,青蛙～起来,jump,0792
+,拃,qiò,迈,跨过高物：从门槛上～过去,beyond,0793
+,踩,loù,踩,脚～在牛粪上,trample,0794
+,翘,qiū,翘,～腿,curl up,0795
+,弯,yué,弯,～腰,stoop,0980
+,挺,tiō,挺,～胸,straight,0797
+,伏,pǔ,趴,～着睡,lie on one’s stomach,0798
+,爬,kué,爬,小孩在地上～,creep,0799
+ ,走,ze ū,走,慢慢儿～,walk,0800
+,跳,taī,跑,慢慢儿走，别～,run,0801
+,逃,tié,逃,逃跑：小偷～走了,escape,0802
+,追,zuaí,追,追赶：～小偷,chase,0803
+,抓,zó,抓,～小偷,catch,0804
+,抱,guě,抱,把小孩～在怀里,embrace,0805
+,背,bó,背,～孩子,carry,0806
+,搀,cán,搀,～老人,support sb.with one’s hand,0807
+,推,tó,推,几个人一起～汽车,pull,0808
+,砸,jiǎ,摔,跌：小孩～倒了,fall,0856
+,撞,cèn,撞,人～到电线杆上,strike,0810
+,挡,dēn,挡,你～住我了，我看不见,ward off,0811
+,躲,zō,躲,躲藏：他～在床底下,hide,0812
+,藏,cén,藏,藏放，收藏：钱～在枕头下面,hide,0813
+ ,放,bēn bè,放,把碗～在桌子上,put,0814
+,堆,dó,摞,把砖～起来,pile,0815
+,埋,miá,埋,～在地下,bury,0816
+,盖,gē,盖,把茶杯～上,cover,0817
+,压,ǒ,压,用石头～住,press,0818
+,摁,hiè,摁,用手指按：～图钉,pin,0819
+,捅,tēn,捅,用棍子～鸟窝,stab,0820
+,插,cǎ,插,把香～到香炉里,insert,0821
+,戳,dò,戳,～个洞,poke,0822
+,砍,kīn,砍,～树,cut,0823
+,剁,dō,剁,把肉～碎做馅儿,chop,0824
+,削,xiú,削,～苹果,cut,0825
+,裂,liǎ,裂,木板～开了,breach,0826
+,皱,zoū,皱,皮～起来,crinkle,0827
+,烂,liè,腐烂,死鱼～了,rot,0828
+,擦,cǒ,擦,用毛巾～手,rub,0829
+,倒,diē,倒,把碗里的剩饭～掉,dump,0830
+,扔,kuì,扔,丢弃：这个东西坏了，～了它,discard,0832
+,扔,kuì,扔,投掷：比一比谁～得远,throw,0832
+,跌,tiè,掉,掉落，坠落：树上～下一个梨,fall,0833
+,滴,tiè,滴,水～下来,drip,0834
+,丢,kuì,丢,丢失：钥匙～了,lose,0835
+,找,tì,找,寻找：钥匙～到,seek,0836
+,捡,jiě,捡,～到十块钱,pick up,0837
+,拎,lián,提,用手把篮子～起来,carry,0838
+,挑,ō,挑,～担,carry,0845
+,背,bó,扛,káng，把锄头～在肩上,lift,0840
+,抬,tiá,抬,～轿,lift,0841
+,举,jū,举,～旗子,lift,0842
+,打,dā,撑,～伞,put up,0843
+,撬,qiū,撬,把门～开,prize up,0844
+,选,suān,挑,挑选，选择：你自己～一个,pick,0845
+ ,收捡,soú jiē,收拾,～东西,tidy up,0846
+,扎,zǎ,挽,～袖子,roll up,0847
+,荡,lēn,涮,把杯子～一下,rinse,0848
+,洗,sī,洗,～衣服,wash,0849
+,捞,ló,捞,～鱼,drag for,0850
+,吊,dī,拴,～牛,tie down,0851
+,捆,kà,捆,～起来,bind,0852
+,解,gā,解,～绳子,unfasten,0853
+,磨,mé,挪,～桌子,move,0854
+,捧,piān,端,～碗,hold,0855
+,砸,jiǎ,摔,碗～碎了,smash,0856
+,掺,cèn,掺,～水,add,0857
+,烧,sí,烧,～柴,burn,0858
+,拆,cò,拆,～房子,pull down,0859
+,转,cuàn,转,～圈儿,revolve,0860
+ ,捶,cuá lē,捶,用拳头～,thump,0861
+,打,dā,打,统称：他～了我一下,hit,0862
+  ,打#10#11,dā sī paī,打架,动手：两个人在～,fight,0863
+ ,敨气,toū cī,休息,,rest,0864
+  ,打哈欠,dā hā qīn,打哈欠,,yawn,0865
+   ,打困难眠,dā kìn līn fān,打瞌睡,,nod,0866
+,眠,fān,睡,他已经～了,sleep,0867
+  ,扯鼻头,yà paì toū,打呼噜,,snore,0868
+ ,得梦,dě miàn,做梦,,dream,0869
+ ,起床,sī cén,起床,,get up,0870
+ ,洗澡,sī jiē,洗澡,,have a bath,0872
+,想,xīn,想,思索：让我～一下,think,0874
+,想,xīn,想,想念：我很～他,miss,0874
+ ,打算,dā xūn,打算,我～开个店,plan,0875
+ ,记得,zī dē,记得,,remember,0876
+  ,记不得,zī mè dē,忘记,,forget,0877
+,恐,xiān,怕,害怕：你别～,afraid,0878
+,信,xiān,相信,我～你,believe,0879
+   ,愁倒愁倒,coú diē coú diē,发愁,,anxious,0880
+ ,小心,sī xiān,小心,过马路要～,careful,0881
+ ,所喜,sō sī,喜欢,～看电视,like,0882
+,烦,fié,讨厌,～这个人,hate,0883
+ ,难受,lié soū,难受,生理的,sick,0885
+ ,难过,lié gū,难过,心理的,sad,0886
+ ,欢喜,fín sī,高兴,,delight,0887
+ ,发火,fiǎ fū,生气,,irritate,0888
+ ,怪夫,guā fū,责怪,,blame,0889
+,悔,fē,后悔,,regret,0890
+ ,眼红,liē hán,忌妒,,envy,0891
+ ,恐羞,xiān coū,害羞,,shy,0892
+  ,丢脸皮,guè màn pā,丢脸,,disgrace,0893
+ ,欺负,cí fū,欺负,,bully,0894
+,装,zén,装,～病,pretend,0895
+,疼,cà,疼,～小孩儿,spoil,1026
+,要,yàn,要,我～这个,want,0897
+,有,hoū,有,我～一个孩子,have,0898
+ ,没有,mē dè,没有,他～孩子,don’t have,1179
+ ,是,sī xiān,是,我～老师,is,0900
+ ,勿是,mè sī,不是,他～老师,is not,0901
+,在,yé,在,他～家,at,0902
+ ,勿在,mè yé,不在,他～家,(be) not in,0903
+ ,晓得,daí dē,知道,我～这件事,know,0904
+  ,晓勿得,daí mè dē,不知道,我～这件事,(do) not know,0905
+ ,晓得,daí dē,懂,我～英语,understand,0906
+  ,晓勿得,daí mè dē,不懂,我～英语,(do) not understand,0907
+ ,晓得,daí dē,会,我～开车,can,0908
+  ,晓勿得,daí mè dē,不会,我～开车,cannot,0909
+ ,识得,sǐ dē,认识,我～他,know,0910
+  ,识勿得,sǐ mè dē,不认识,我～他,(do) not know,0911
+ ,要的,yàn dē,行,应答语,yes,1118
+  ,要勿得,yàn mè dē,不行,应答语,no,0913
+,肯,hān,肯,～来,willing,0914
+,该,gé,应该,～去,may,0915
+ ,可以,kō zī,可以,～去,can,0916
+,讲,jiān,说,～话,say,0917
+,话,hò,话,说～,word,0918
+ ,谈白,tàn bè,聊天儿,,chat,0919
+,叫,xiǔ,叫,～他一声儿,call,0920
+   ,背起喉咙,bó sī hoú liān,吆喝,大声喊,shout,0921
+,哭,hǒ,哭,小孩～,cry,0922
+,斥,có,骂,当面～人,scold,0923
+  ,闹#10#11,liè sī paī,吵架,动嘴：两个人在～,quarrel,0924
+,骗,bān,骗,～人,lie,0925
+,哄,hīn,哄,～小孩,coax,0926
+  ,讲哄话,jiān hīn hò,撒谎,,tell a lie,0927
+  ,吹牛皮,cuaí ngoú pā,吹牛,,brag,0928
+  ,搊卵泡,coú līn piú,拍马屁,,flatter,0929
+  ,讲笑话,jiān sī hò,开玩笑,,joke,0930
+ ,告诉,gō sèn,告诉,～他,tell,0931
+ ,多谢,dé qiō,谢谢,致谢语,thanks,0932
+  ,对不住,dō mè cò,对不起,致歉语,sorry,0933
+  ,再见面,jiā jīn mià,再见,告别语,goodbye,0934
+,大,daí,大,苹果～,big,0935
+ ,小,sī xiān,小,苹果～,small,0936
+,粗,có,粗,绳子～,thick,0937
+,幼,yōu,细,绳子～,thin,0938
+,长,cén,长,线～,long,0941
+,短,dīn,短,线～,short,0942
+,长,cén,长,时间～,long,0941
+,短,dīn,短,时间～,short,0942
+,阔,fě,宽,路～,broad,0943
+ ,阔大,fě tò,宽敞,房子～,spacious,0944
+,狭,hà,窄,路～,narrow,0945
+,高,gié,高,飞机飞得～,high,0948
+,矮,ā,低,鸟飞得～,low,0947
+,高,gié,高,他比我～,tall,0948
+,矮,ā,矮,他比我～,short,0949
+,远,wān,远,路～,far,0950
+,近,qiān,近,路～,near,0951
+,深,sán,深,水～,deep,0952
+,浅,cān,浅,水～,shallow,0953
+,清,qió,清,水～,clear,0954
+,浑,fán,浑,水～,turbid,0955
+,园,lún,圆,,round,0956
+,扁,paí,扁,,flat,0957
+,方,fié,方,,square,0958
+,尖,zán,尖,,pointed,0959
+,平,pió,平,,flat,0960
+,肥,faí,肥,～肉,fat,0963
+,精,jió,瘦,～肉,lean,0965
+,肥,faí,肥,形容猪等动物,fat,0963
+,胖,lǎ,胖,形容人,fat,0964
+,枯,hó,瘦,形容人、动物,thin,0965
+,黑,hě,黑,黑板的颜色,black,0989
+,白,pò,白,雪的颜色,white,1188
+,红,hán,红,国旗的主颜色，统称,red,0968
+,黄,hín,黄,国旗上五星的颜色,yellow,0969
+,蓝,ló,蓝,蓝天的颜色,blue,0970
+,青,qió,绿,绿叶的颜色,green,0971
+,紫,zī,紫,紫药水的颜色,purple,0972
+,灰,fé,灰,草木灰的颜色,gray,0973
+ ,多,dé qiō,多,东西～,many/much,0974
+,少,sī,少,东西～,few/little,0975
+,重,cān,重,担子～,heavy,0976
+,轻,qió,轻,担子～,light,0977
+,直,zì,直,线～,straight,0978
+,陡,doū,陡,坡～，楼梯～,steep,0979
+,弯,wān,弯,弯曲：这条路是～的,curve,0980
+,歪,cuā,歪,帽子戴～了,askew,0981
+,#12,zān,厚,木板～,thick,0982
+,薄,pè,薄,木板～,thin,0983
+,浓,lián,稠,稀饭～,thick,0984
+,稀,sí,稀,稀饭～,thin,0987
+,密,pá,密,菜种得～,dense,0986
+,稀,sí,稀,稀疏：菜种得～,sparse,0987
+,亮,lìn,亮,指光线，明亮,bright,0988
+,黑,hě,黑,指光线，完全看不见,dark,0989
+,热,wǔ,热,天气,hot,0994
+,暖,līn,暖和,天气,warm,0991
+ ,凉爽,lín xiō,凉,天气,cool,0995
+,冷,lō,冷,天气,cold,0993
+,热,lǒ,热,水,hot,0994
+,冷,lō,凉,水,cold,0995
+,干,gín,干,干燥：衣服晒～了,dry,0996
+,湿,hā,湿,潮湿：衣服淋～了,wet,0997
+ ,干净,gín qiò,干净,衣服～,clean,0998
+ ,龌龊 马虎,wē mà,脏,肮脏，不干净，统称：衣服～,dirty,0999
+,利,laì,快,锋利：刀子～,sharp,1183
+,鹅=,ngé,钝,刀～,blunt,1001
+,快,kyā,快,坐车比走路～,fast,1183
+,慢,miè,慢,走路比坐车～,slow,1003
+,早,jiē,早,来得～,early,1004
+,迟,cí,晚,来～了,late,1006
+,黑,hě,晚,天色～,late,1006
+,松,sén,松,捆得～,loose,1007
+,紧,jiān,紧,捆得～,tight,1008
+ ,容得,yín dē,容易,这道题～,easy,1009
+,难,lié,难,这道题～,hard,1010
+,新,xián,新,衣服～,new,1011
+,老,liē,旧,衣服～,old,1012
+,老,liē,老,人～,old,1013
+ ,年轻,lán qió,年轻,人～,young,1014
+,软,luán,软,糖～,soft,1015
+,硬,ngiè,硬,骨头～,hard,1016
+,洋,yín,烂,肉煮得～,pasty,1017
+,臭,coū,煳,饭烧～了,burnt,1018
+ ,扎实,zǎ sì,结实,家具～,sturdy,1019
+  ,烂,liè sī paī,破,衣服～,broken,1020
+ ,发财,fiǎ qiá,富,他家很～,rich,1021
+,穷,qián,穷,他家很～,poor,1022
+,忙,mié,忙,最近很～,busy,1023
+ ,有空,hoū hán,闲,最近比较～,leisure,1024
+,苦,kō,累,走路走得很～,tired,1025
+,疼,cà,疼,摔～了,hurt,1026
+,痒,yīn,痒,皮肤～,itch,1027
+ ,闹热,ló yè,热闹,看戏的地方很～,lively,1028
+ ,熟悉,soù sì,熟悉,这个地方我很～,familiar,1029
+ ,生疏,xié sō,陌生,这个地方我很～,unfamiliar,1030
+ ,味道,waì tiè,味道,尝尝～,taste,1031
+ ,气味,cī waì,气味,闻闻～,smell,1032
+,咸,hó,咸,菜～,salty,1033
+,淡,tō,淡,菜～,tasteless,1034
+,酸,sún,酸,,sour,1035
+,甜,tán,甜,,sweet,1036
+,苦,kō,苦,,bitter,1037
+,辣,lià,辣,,hot,1038
+ ,新鲜,xián sān,鲜,鱼汤～,delicious,1039
+,香,xin,香,,fragrant,1040
+,臭,coū,臭,,smelly,1041
+,馊,soú,馊,饭～,stale,1042
+,腥,xió,腥,鱼～,stinking,1043
+,好,hiē,好,人～,nice,1044
+,坏,yà,坏,人～,bad,1045
+,差,có,差,东西质量～,bad,1046
+,对,dō,对,账算～了,right,1194
+,错,cě,错,账算～了,wrong,1048
+,姣,jiaō,漂亮,形容年轻女性的长相：她很～,beautiful,1049
+,丑,coū,丑,形容人的长相：猪八戒很～,ugly,1050
+ ,勤快,qió guā,勤快,,diligent,1051
+ ,懒门,liē miān,懒,,lazy,1052
+ ,在行,qiā hén,乖,,well-behaved,1053
+ ,跳皮,tī pá,顽皮,,naughty,1054
+ ,本分,biān fiàn,老实,,honest,1055
+,蠢,cuān,傻,痴呆,idiot,1056
+,呆,ngá,笨,蠢,stupid,1057
+ ,舍得,sō dē,大方,不吝啬,generous,1058
+ ,小气,xiaō cī,小气,吝啬,mean,1059
+ ,直贴,cì tiē,直爽,性格～,frank,1060
+,犟,qīn,犟,脾气～,stubborn,1061
+,一,zǐ,一,～二三四五……，下同,one,1062
+,二,lì,二,,two,1063
+,三,só,三,,three,1064
+,四,saī,四,,four,1065
+,五,ēng,五,,five,1066
+,六,liù,六,,six,1067
+,七,caǐ,七,,seven,1068
+,八,biǎ,八,,eight,1069
+,九,jiū,九,,nine,1070
+,十,sì,十,,ten,1071
+ ,二十,lì sì,二十,有无合音,twenty,1072
+ ,三十,só sì,三十,有无合音,thirty,1073
+ ,一百,zī bǒ,一百,,hundred,1074
+ ,一千,zī zán,一千,,thousand,1075
+ ,一万,zī yuè,一万,,ten thousand,1076
+   ,一百零五,zī bǒ lió ēng,一百零五,,a hundred and five,1077
+   ,一百五十,zī bǒ ēng sì,一百五十,,a hundred and fifty,1078
+ ,第一,tì zǐ,第一,～，第二,first,1079
+ ,两两,līn līn,二两,重量,,1080
+ ,几粒 几个,zǐ zī,几个,你有～孩子？,several,1081
+ ,两人,liē ēng,俩,你们～,two,1082
+  ,三个人,só dā ēng,仨,你们～,three,1083
+  ,个把子,dā bē dè,个把,,several,1084
+,个,dā,个,一～人,a/an,1085
+,头,toú,匹,一～马,a/an,1086
+,头,toú,头,一～牛,a/an,1088
+,头,toú,头,一～猪,a/an,1088
+,头,toú,只,一～狗,a/an,1168
+,头,toú,只,一～鸡,a/an,1168
+,头,toú,只,一～蚊子,a/an,1168
+,头,toú,条,一～鱼,a/an,1110
+,头,toú,条,一～蛇,a/an,1110
+,把,bō,张,一～嘴,a/an,1095
+,张,mō,张,一～桌子,piece,1095
+,床,cén,床,一～被子,a/an,1096
+,张,zén,领,一～席子,a/an,1097
+,双,sén,双,一～鞋,pair,1098
+,把,bō,把,一～刀,a/an,1100
+,把,bō,把,一～锁,a/an,1100
+,梗,mēn,根,一～绳子,a/an,1101
+,梗,mēn,支,一～毛笔,a/an,1102
+,副,fū,副,一～眼镜,pair,1103
+,面,mān,面,一～镜子,a/an,1104
+,块,kyā,块,一～香皂,chunk,1119
+,辆,liē,辆,一～车,a/an,1106
+,座,cē,座,一～房子,a/an,1108
+,座,cē,座,一～桥,a/an,1108
+,条,tí,条,一～河,a/an,1110
+,条,tí,条,一～路,a/an,1110
+,蔸,doú,棵,一～树,a/an,1111
+,朵,dē,朵,一～花,a/an,1112
+,粒,laǐ,颗,一～珠子,a/an,1113
+,粒,laǐ,粒,一～米,a/an,1114
+,顿,duān,顿,一～饭,a/an,1126
+,剂,zī,剂,一～中药,dose,1116
+,路,lō,行,一～字,line,1118
+,枚,mián,块,一～钱,,1119
+,角,jiě,毛,角：一～钱,one,1120
+,桩,zén,件,一～事情,piece,1121
+,#9,guí,点儿,一～东西,few/little,1122
+,些,daī,些,一～东西,few/little,1123
+,下,diǎ,下,打一～，动量，不是时量,once,1124
+,下,diǎ,会儿,坐了一～,while,1125
+,顿,duān,顿,打一～,once,1126
+,席,qiò,阵,下了一～雨,while,1127
+,道,zuān,趟,去了一～,once,1128
+,我,yō,我,～姓王,I,1129
+,你,ēng,你,～也姓王,you,1130
+,你,ēng,您,尊称,you,1131
+,之,zē,他,～姓张,he/she,1132
+ ,我哩,yō lē,我们,不包括听话人：你们别去，～去,we,1133
+ ,我哩,yō lē,咱们,包括听话人：他们不去，～去吧,we,1134
+ ,你哩,ēng lē,你们,～去,you,1135
+ ,之哩,zē lē,他们,～去,they,1136
+ ,大齐,tò cī,大家,～一起干,everyone,1137
+ ,自家,cí gō,自己,我～做的,self,1138
+ ,人家,éng gō,别人,这是～的,other people,1139
+   ,我屋腹爹,yō ò bū diā,我爸,～今年八十岁,my father,1140
+   ,你屋腹爹,ēng ò bū diā,你爸,～在家吗？,your father,1141
+   ,之屋腹爹,zē ò bū diā,他爸,～去世了,his/her father,1142
+ ,彼个,biě dā,这个,我要～，不要那个,this,1143
+ ,那个,lā dà,那个,我要这个，不要～,that,1144
+ ,哪个,liè dā,哪个,你要～杯子？,which,1145
+ ,哪人,liè ēng,谁,你找～？,who,1146
+ ,彼里,biě liō,这里,在～，不在那里,here,1147
+ ,那里,lā liō,那里,在这里，不在～,there,1148
+ ,哪里,liè liō,哪里,你到～去？,where,1149
+ ,彼样,biě yìn,这样,事情是～的，不是那样的,this,1150
+ ,那侧,lā zì,那样,事情是这样的，不是～的,that,1151
+ ,哪侧,liè zì,怎样,什么样：你要～的？,how,1152
+ ,这侧,zē zì,这么,～贵啊,so,1153
+ ,哪侧,liè zì,怎么,这个字～写？,how,1154
+ ,哪东,lè diān,什么,这个是～字？,what,1156
+ ,哪东,lè diān,什么,你找～？,what,1156
+  ,跟哪侧,gán liè zì,为什么,你～不去？,why,1157
+  ,做哪东,zē liè diān,干什么,你在～？,do,1158
+ ,好多,hiē dē,多少,这个村有～人？,how many/how much,1159
+,好,hiē,很,今天～热,very,1160
+,蛮,mié,非常,比上条程度深：今天～热,extremely,1161
+,还,haí,更,今天比昨天～热,more,1162
+,太,tiā,太,这个东西～贵，买不起,too,1163
+,最,zuí,最,弟兄三个中他～高,most,1164
+,下,diǎ,都,大家～来了,both/all,1165
+ ,做下,zē diǎ,一共,～多少钱？,totally,1166
+ ,一起,zī cī,一起,我和你～去,together,1167
+ ,就是,qiù sī,只,我～去过一趟,only,1168
+,正,zō,刚,这双鞋我穿着～好,exact,1170
+,才,caǐ,刚,我～到,just,1170
+,才,caǐ,才,你怎么～来啊？,just,1171
+,就,qiù,就,我吃了饭～去,right after,1172
+  ,常时牯,sén sì gō,经常,我～去,always,1173
+,又,yòu,又,他～来了,again,1174
+,还,haí,还,他～没回家,not yet,1175
+,再,jiā,再,你明天～来,again,1176
+,也,yē,也,我～去；我～是老师,also,1177
+ ,横经,fèn zī,反正,不用急，～还来得及,anyway,1178
+ ,没得,mē dè,没有,昨天我～去,no,1179
+,勿,mè,不,明天我～去,not,1180
+,勿,mè,别,你～去,do not,1181
+ ,勿作,mè cè,甭,不用，不必：你～客气,no need,1182
+,快,kyā,快,天～亮了,almost,1183
+   ,差点子子,có guī lē lē,差点儿,～摔倒了,almost,1184
+,愿,wàn,宁可,～买贵的,rather,1185
+  ,特地牯,tè dī gū,故意,～打破的,on purpose,1186
+ ,随便,cuaí pàn,随便,～弄一下,casually,1187
+  ,光打光,gín dā gín,白,～跑一趟,in vain,1188
+ ,坐死,cē saī,肯定,～是他干的,must,1189
+  ,算勿倒,xūn mè diē,可能,～是他干的,maybe,1190
+,边,bán,一边,～走，～说,while,1191
+,跟,gán,和,我～他都姓王,and,1193
+,敌=,dì,和,我昨天～他去城里了,with,1193
+,对,dō,对,他～我很好,to,1194
+,向,xin,往,～东走,toward,1195
+,问,miàn,向,～他借一本书,from,1196
+,跟,gán,按,～他的要求做,as,1197
+,替,tī,替,～他写信,for,1198
+  ,倘若是,tān yìn sī,如果,～忙你就别来了,if,1199
+ ,勿管,mè gūn,不管,～怎么劝他都不听,regardless of,1200
