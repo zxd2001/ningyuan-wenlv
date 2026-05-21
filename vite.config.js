@@ -12,7 +12,15 @@ export default defineConfig({
   },
   server: {
     port: 5173,
-    host: true
+    host: true,
+    mimeTypes: {
+      '.jpg': 'image/jpeg',
+      '.jpeg': 'image/jpeg',
+      '.png': 'image/png',
+      '.gif': 'image/gif',
+      '.svg': 'image/svg+xml',
+      '.webp': 'image/webp',
+    }
   },
   base: process.env.GITHUB_PAGES ? '/ningyuan-wenlv/' : '/',
   build: {
