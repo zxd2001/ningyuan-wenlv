@@ -254,6 +254,7 @@ export const nyData = {
       description: '2024年开园，有印山砠、印山湖、樱花岭等，免费开放，"印山春雨"已重现。',
       images: [
         '/images/bajing/yinshan.jpg',
+        'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&q=80',
       ],
     },
     {
@@ -263,6 +264,7 @@ export const nyData = {
       description: '古桥已毁，原址河段尚存，秋夜月色仍佳，紧邻文庙景区。',
       images: [
         '/images/bajing/fengqiao.jpg',
+        'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80',
       ],
     },
     {
@@ -272,6 +274,7 @@ export const nyData = {
       description: '原生古桂多消失，近年新植桂树成林，秋季仍有桂香。',
       images: [
         '/images/bajing/nanlin.jpg',
+        'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&q=80',
       ],
     },
     {
@@ -281,6 +284,7 @@ export const nyData = {
       description: '老古松多不存，河畔仍有松林与溪流，风光清幽。',
       images: [
         '/images/bajing/dongxi.jpg',
+        'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80',
       ],
     },
     {
@@ -290,6 +294,7 @@ export const nyData = {
       description: '泉眼仍在，水质清甘，景区内可品茶，属玉琯岩景点群。',
       images: [
         '/images/bajing/jinquan.jpg',
+        'https://images.unsplash.com/photo-1519415510236-718bdfcd89c8?w=800&q=80',
       ],
     },
     {
@@ -299,6 +304,7 @@ export const nyData = {
       description: '保存完好，有汉代蔡邕等名人题刻，为全国重点文保单位。',
       images: [
         '/images/bajing/yuguan.jpg',
+        'https://images.unsplash.com/photo-1504893524553-b855bce32c67?w=800&q=80',
       ],
     },
     {
@@ -308,6 +314,7 @@ export const nyData = {
       description: '核心景区，森林茂密、群峰叠翠，四季皆景。',
       images: [
         '/images/bajing/yifeng.jpg',
+        'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80',
       ],
     },
     {
@@ -317,6 +324,7 @@ export const nyData = {
       description: '潇水风光带，水质清澈、两岸青绿，适合自驾或徒步观景。',
       images: [
         '/images/bajing/xiaoshui.jpg',
+        'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80',
       ],
     },
   ],
