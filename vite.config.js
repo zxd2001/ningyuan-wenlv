@@ -22,7 +22,7 @@ export default defineConfig({
       '.webp': 'image/webp',
     }
   },
-  base: process.env.GITHUB_PAGES ? '/ningyuan-wenlv/' : '/',
+  base: '/ningyuan-wenlv/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
