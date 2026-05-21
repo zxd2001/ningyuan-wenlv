@@ -22,13 +22,13 @@ export default defineConfig({
       '.webp': 'image/webp',
     }
   },
-  base: '/ningyuan-wenlv/',
+  base: './',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
     rollupOptions: {
       output: {
-        manualChunks: undefined
+        // keep entry chunks small — no manual splitting needed
       }
     }
   }
